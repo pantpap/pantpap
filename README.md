@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **pantpap/pantpap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **pantpap@gmail.com**
 
-### Blogs posts
+<!--### Blogs posts-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
