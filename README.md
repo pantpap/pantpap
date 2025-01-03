@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Pantelis Papasavvas</h1>
 <h3 align="center">A passionate frontend developer in love with Angular</h3>
 
-- 🔭 I’m currently working on **Antaeus Travel**
+- 🔭 I’m currently working at **Antaeus Travel**
 
 - 📝 I regularly write articles on [https://dev.to/pantpapasavvas](https://dev.to/pantpapasavvas)
 
